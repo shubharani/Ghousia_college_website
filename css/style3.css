@@ -1,0 +1,78 @@
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+body {
+
+	background:#fdeef4 url(v8.jpg);
+	font-family:arial;
+	color:black;
+	font-size: 1.5em;
+}
+
+
+
+
+
+
+
+/* Menu */
+
+#menu {
+	width: 900px;
+	height: 10px;
+	margin: 0 auto;
+	padding: 0;
+	
+     
+}
+
+#menu ul {
+	
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	line-height: normal;
+
+}
+
+
+
+
+#menu li {
+	float: left;
+}
+
+#menu a {
+	display:block;
+	width: 130px;
+	height: 28px;
+	background:yellow;
+	padding-top: 8px;
+	text-decoration: none;
+	text-align: center;
+	font-family:times roman;
+	font-size: 15px;
+	font-weight: bold;
+	color: black;
+	border: none;
+}
+
+#menu a:hover, #menu .current_page_item a {
+	background:pink;
+	text-decoration: none;
+}
+
+
+
+#me div{
+	width: 100px;
+	height: 50px;
+	margin: ;
+	padding: 10px;
+	
+
+}
+
+

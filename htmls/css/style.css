@@ -1,0 +1,33 @@
+@import url("contactform.css");
+* {padding:0; margin:0;}
+body {background: url(images/url6.jpg) repeat; font:11px Verdana, Geneva, sans-serif; color:#333;}
+.clear {clear:both;}
+ul {list-style:none;}
+#wrap {width:947px; margin:auto; background:#fff; border-left: solid 8px #f5f5f5; border-right: solid 8px #f5f5f5;}
+#topribbon {background: url(images/ribbonbg.jpg) repeat-x; height:52px;}
+#homeheader {background: url(images/headerbg-home.jpg) repeat; height:500px; padding:8px; margin-bottom:5px;}
+#leftheader {background: url(images/greenbox.jpg) no-repeat; height:334px; width:637px; float:left;}
+#rightheader {background:url(images/coffeebox-ads.jpg) no-repeat; height:326px; padding-top:8px; float:right; width:284px;}
+#featured-dl {background:url(images/slidepng.png) no-repeat; width:597px; height:233px; overflow:hidden;}
+#slidewrapper {padding:20px 20px 0 20px;}
+#homeheader h2 {display:block; font:bold 18px "Trebuchet MS", Arial, Helvetica, sans-serif; text-transform:uppercase; text-shadow:#2a3107 1px 1px 1px; color:#ece4d8; margin-bottom:10px; padding-top:10px;}
+#content { background:url(images/sidebarbg.jpg) right top repeat-y;}
+#left {float:left; width:645px;}
+#sidebar {float:right; width:300px;}
+#search {background:url(images/searchbar.jpg) left top no-repeat; height:50px;}
+h1#sitename {display:block; font:bold 30px Georgia, "Times New Roman", Times, serif; color:#fff; padding:8px 5px 0 10px; float:left;}
+#h{background-color:black;  text-align: center; display:block; font:bold 30px Georgia, "Times New Roman", Times, serif;padding-bottom: }
+#nav {list-style:none; display:block; float:right; width:660px;}
+#nav li {display:inline; font:bold 16px "Trebuchet MS", Arial, Helvetica, sans-serif; text-transform:uppercase; text-shadow:#000 1px 1px 1px;}
+#nav li a {display:block; height:35px; padding:12px 17px 0 15px; float:left; color:#D3C8C1;}
+#nav li a:visited, #nav li a:active { color:#D3C8C1;}
+#nav li a:hover, #nav li.active a {color:#fff; background:url(images/active-menu.jpg) center bottom no-repeat;}
+#sidebar form label {display:block; font:bold 14px "Trebuchet MS", Arial, Helvetica, sans-serif; margin-bottom:8px;}
+#sidebar form {width:263px; margin:auto;}
+#sidebar form div.fieldcontainer { background:url(images/txtfield-sidebar.jpg) no-repeat; height:42px; width:262px; margin-bottom:8px;}
+#sidebar form .txtfield {display:block; background:transparent; border:none; font:bold 14px "Trebuchet MS", Arial, Helvetica, sans-serif; padding:10px 8px 0 8px; height:42px; width:246px;}
+#search form {display:block; padding:6px 25px 0 138px;}
+#search form div {background:url(images/search-field.gif) no-repeat; width:464px; height:27px; padding:5px 0 5px 0;}
+#search .searchfield {display:block; width:370px; height:24px; background:transparent; border:none; float:left; padding:5px 10px 5px 10px; font:bold 14px "Trebuchet MS", Arial, Helvetica, sans-serif; color: #E8E6CC;}
+#search .searchgo { display:block; float:left; padding:0 0 0 8px;}
+.brnad { width:252px; margin:0 auto 8px auto; background:#000; padding:5px;}
